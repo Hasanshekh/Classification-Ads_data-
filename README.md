@@ -1,4 +1,4 @@
-# Classification-Ads_data-
+# Classification-Ads_data
 Applying different Classification Algorithms on data.
 
 1) Logistic Regression
