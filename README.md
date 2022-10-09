@@ -7,4 +7,3 @@ Applying different Classification Algorithms on data.
 4) Support vector Machine
 5) Gassian NB
 dfghjkl;'
-c
