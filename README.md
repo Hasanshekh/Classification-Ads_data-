@@ -6,3 +6,5 @@ Applying different Classification Algorithms on data.
 3) Random forest
 4) Support vector Machine
 5) Gassian NB
+dfghjkl;'
+cvbnkl;'
